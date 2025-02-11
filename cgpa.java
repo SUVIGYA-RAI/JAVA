@@ -7,3 +7,4 @@ public class cgpa {
         System.out.println(cgpa);
     }
 }
+
