@@ -1,1 +1,1 @@
-import java.util.Scanner;
+String st = sc.next();
