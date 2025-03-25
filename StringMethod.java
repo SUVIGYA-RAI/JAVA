@@ -22,6 +22,9 @@ public class StringMethod {
         System.out.println(a.replace("vigya", "man"));
 
         System.out.println(a.charAt(2));
+
+        System.out.println(a.equals("Suvigya"));
+
     }
 }
 
